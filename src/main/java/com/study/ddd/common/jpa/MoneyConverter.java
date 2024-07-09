@@ -1,4 +1,4 @@
-package com.study.ddd.member.command.jpa;
+package com.study.ddd.common.jpa;
 
 import com.study.ddd.common.model.Money;
 import jakarta.persistence.AttributeConverter;
