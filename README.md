@@ -10,5 +10,9 @@
 <img width="399" src ="https://github.com/malaheaven/ddd-start/assets/45054467/6d992279-581f-4c83-9ea9-c537142bba5d">
 <img width="399" alt="스크린샷 2024-07-09 오후 4 32 39" src="https://github.com/malaheaven/ddd-start/assets/45054467/ce03094e-2450-430c-8aee-c3217255e685">
 
+## Member 애그리거트
+<img width="543" alt="스크린샷 2024-07-09 오후 5 03 25" src="https://github.com/malaheaven/ddd-start/assets/45054467/83271741-a16f-4bc8-b9ae-1e7019e81fd0">
+
+
 
 
