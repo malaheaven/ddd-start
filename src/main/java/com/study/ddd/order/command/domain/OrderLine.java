@@ -1,6 +1,6 @@
 package com.study.ddd.order.command.domain;
 
-import com.study.ddd.catalog.command.domain.ProductId;
+import com.study.ddd.catalog.command.domain.product.ProductId;
 import com.study.ddd.common.model.Money;
 import com.study.ddd.common.jpa.MoneyConverter;
 import jakarta.persistence.Column;
