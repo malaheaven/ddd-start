@@ -13,6 +13,11 @@
 ## Member 애그리거트
 <img width="543" alt="스크린샷 2024-07-09 오후 5 03 25" src="https://github.com/malaheaven/ddd-start/assets/45054467/83271741-a16f-4bc8-b9ae-1e7019e81fd0">
 
+## Category, Product 애그리거트
+<img width="586" alt="스크린샷 2024-07-11 오후 3 53 32" src="https://github.com/malaheaven/ddd-start/assets/45054467/ad4dadf6-d919-43ca-a045-8df558aaacbf">
+<img width="621" alt="스크린샷 2024-07-11 오후 3 54 05" src="https://github.com/malaheaven/ddd-start/assets/45054467/51856f96-2ca5-4cac-bc01-95101146f982">
+
+
 
 
 

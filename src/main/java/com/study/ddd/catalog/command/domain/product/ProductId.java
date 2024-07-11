@@ -1,4 +1,4 @@
-package com.study.ddd.catalog.command.domain;
+package com.study.ddd.catalog.command.domain.product;
 
 import jakarta.persistence.Access;
 import jakarta.persistence.AccessType;
